@@ -1,0 +1,1 @@
+A numerical simulation of 2D subsonic potential flow over a cylinder, implemented in Python. The governing equation is solved in polar coordinates (θ ∈ [0, π]) using the Successive Over-Relaxation (SOR) iterative method. This work was developed as a final project for a Gas Dynamics course.
